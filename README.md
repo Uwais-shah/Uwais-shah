@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uwais-shah
 - 👀 I’m interested in DSA,Machine learning,Data science,Blockchain technology
-- 🌱 I’m currently studing in Go college of engineering 
+- 🌱 I’m currently studing in Goa college of engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
